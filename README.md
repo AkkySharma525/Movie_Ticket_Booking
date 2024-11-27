@@ -52,5 +52,5 @@ Menu: Press 1 Book a Seat Press 2 Cancel a Seat Press 3 View Summary Press 4 Exi
 
 ## Summary of Booked Seats
 
-# Seat: B5
+### Seat: B5
 Total Cost: 200 INR Thank you for using the booking system
